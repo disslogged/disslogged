@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm disslogged Frontend Developer ( React | Next Js )</h1>
 <p align="left">🌱 I’m currently learning Next js</p>
 <h3 align="center">Languages and Tools:</h3>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="HTML5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="CSS3 logo" />
